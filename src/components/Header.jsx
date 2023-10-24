@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <>
      <div className="flex flex-col px-2 pt-4 justify-center">
-    <img className='max-w-3xl w-4/5  self-center' src='/public/airbnb.jpg' />
+    <img className='max-w-3xl w-4/5  self-center' src='/airbnb.jpg' />
    </div>
    <div className="flex flex-col justify-center">
     <h1 className='text-center font-poppins 

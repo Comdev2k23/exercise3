@@ -4,6 +4,7 @@ export const storeData = [
     ratings: 4.5,
     span: '(34)•  Turkey',
     src: 'https://airbnbclone-mg.netlify.app/static/media/img1.20b7fd71309273312e17.jpg',
+    description: 'Learn Professional Swimming Techniques',
     price: 313,
   },
   {
